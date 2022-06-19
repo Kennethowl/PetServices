@@ -1,0 +1,16 @@
+C:\Users\OPT790\Desktop\PetServices\bin\Debug\netcoreapp3.1\PetServices.exe
+C:\Users\OPT790\Desktop\PetServices\bin\Debug\netcoreapp3.1\PetServices.deps.json
+C:\Users\OPT790\Desktop\PetServices\bin\Debug\netcoreapp3.1\PetServices.runtimeconfig.json
+C:\Users\OPT790\Desktop\PetServices\bin\Debug\netcoreapp3.1\PetServices.runtimeconfig.dev.json
+C:\Users\OPT790\Desktop\PetServices\bin\Debug\netcoreapp3.1\PetServices.dll
+C:\Users\OPT790\Desktop\PetServices\bin\Debug\netcoreapp3.1\PetServices.pdb
+C:\Users\OPT790\Desktop\PetServices\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\OPT790\Desktop\PetServices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\OPT790\Desktop\PetServices\obj\Debug\netcoreapp3.1\PetServices.csprojAssemblyReference.cache
+C:\Users\OPT790\Desktop\PetServices\obj\Debug\netcoreapp3.1\PetServices.AssemblyInfoInputs.cache
+C:\Users\OPT790\Desktop\PetServices\obj\Debug\netcoreapp3.1\PetServices.AssemblyInfo.cs
+C:\Users\OPT790\Desktop\PetServices\obj\Debug\netcoreapp3.1\PetServices.csproj.CoreCompileInputs.cache
+C:\Users\OPT790\Desktop\PetServices\obj\Debug\netcoreapp3.1\PetServices.csproj.CopyComplete
+C:\Users\OPT790\Desktop\PetServices\obj\Debug\netcoreapp3.1\PetServices.dll
+C:\Users\OPT790\Desktop\PetServices\obj\Debug\netcoreapp3.1\PetServices.pdb
+C:\Users\OPT790\Desktop\PetServices\obj\Debug\netcoreapp3.1\PetServices.genruntimeconfig.cache

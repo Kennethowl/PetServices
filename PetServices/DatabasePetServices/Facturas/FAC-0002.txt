@@ -1,0 +1,9 @@
+ID ID Factura Fecha Cliente Usuario Subtotal Impuesto Total Recibe Vuelto
+1 FAC-0001 15/5/2022 15:39:11 Galipoli Gutierrez admin 500 75 575 500 0
+ID Detalle Precio Total
+1 Corte de Uñas 500 575
+2 Peluquería 1000 1150
+2 FAC-0002 15/5/2022 15:39:49 Galipoli Gutierrez admin 1500 225 2000 2000 0
+ID Detalle Precio Total
+1 Corte de Uñas 500 575
+2 Peluquería 1000 1150
